@@ -1,0 +1,11 @@
+chmod u+x file2.txt
+
+chmod a-x /home/bob
+
+chomd u=rwx,g=rx,o=rw file2.txt
+
+chmod 755
+
+chmod 544
+
+chmod 540

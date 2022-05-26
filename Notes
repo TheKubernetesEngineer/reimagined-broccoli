@@ -1,0 +1,6 @@
+type test
+type -a pytohn
+$0  # path to te current running shell
+$? # holds a 1 or 0
+$$ current process ID
+$! process ID for previous Command

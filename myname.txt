@@ -1,0 +1,23 @@
+1
+1. Introduction.mp4
+Desktop
+Documents
+Downloads
+go
+jk.sh
+kubectl
+me
+minikube_latest_amd64.deb
+Music
+myname.txt
+Pictures
+pkg
+Public
+pype
+scripts
+snap
+stan2
+Templates
+test.txt
+Videos
+VirtualBox VMs
